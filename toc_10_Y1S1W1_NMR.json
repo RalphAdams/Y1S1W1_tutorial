@@ -1,0 +1,27 @@
+[
+  {
+    "id": "8/Hyl0kylyd+h0DnUkDIXBahUYE=",
+    "mf": "C4H8O",
+    "idCodeHash": "c24527097aa6fc9f937412dd192802a7",
+    "file": "./10_Y1S1W1_NMR/10_Dataset1/index.json",
+    "title": "Dataset1",
+    "idCode": "gJQ@@dru@@",
+    "selected": true
+  },
+  {
+    "id": "U6s3zIVb7OHMUN4gKLJc9shhoUk=",
+    "mf": "C4H6O2",
+    "idCodeHash": "802024221706bc9501cf26a47093063d",
+    "file": "./10_Y1S1W1_NMR/20_Dataset2/index.json",
+    "title": "Dataset2",
+    "idCode": "gGP`@dfUjP@"
+  },
+  {
+    "id": "VkfS/URYZfrKP7WQdY6GdIutfaI=",
+    "mf": "C11H20O4",
+    "idCodeHash": "b973077e4ef5981c3f21be67a5f3a56b",
+    "file": "./10_Y1S1W1_NMR/30_Dataset3/index.json",
+    "title": "Dataset3",
+    "idCode": "do\\B@@PYrJIQJHiIjjZj`@"
+  }
+]
